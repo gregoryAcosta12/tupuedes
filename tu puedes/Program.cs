@@ -8,6 +8,16 @@
             Console.WriteLine("pizza");
             Console.WriteLine("amburgessa");
             Console.WriteLine("quesadilla");
+
+            Console.WriteLine("quesadilla");
+            Console.WriteLine("pizza");
+            Console.WriteLine("amburgessa");
+            Console.WriteLine("quesadilla");
+
+            Console.WriteLine("quesadilla");
+            Console.WriteLine("pizza");
+            Console.WriteLine("amburgessa");
+            Console.WriteLine("quesadilla");
         }
     }
 }
